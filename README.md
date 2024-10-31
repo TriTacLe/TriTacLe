@@ -6,9 +6,8 @@ Welcome to my GitHub profile! I’m a 20-year-old Computer and System Engineerin
 * Hobbies: Playing the piano, hitting the gym, and boxing 🥊
   
 💻 My Technical Interests
-I’m particularly fascinated by:
 * System Architecture: Designing efficient, scalable, and reliable systems
-* Frontend Development: Creating smooth and engaging user experiences
+* Frontend Development: Creating beatiful and engaging user experiences
 * Backend Development: Building secure, performant, and robust server-side applications
 * Network Programming: Exploring protocols, data exchange, and network performance optimization
 * System Design: Structuring applications and systems with a focus on scalability and maintainability
