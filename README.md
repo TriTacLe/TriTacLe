@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I’m a 20-year-old Computer and System Engineerin
 * Studying: Computer and System Engineering at the Norwegian University of Science and Technology (NTNU) in Trondheim
 * Hobbies: Playing the piano, hitting the gym, and boxing 🥊
   
-💻 My Technical Interests
+💻 Goals
 * System Architecture: Designing efficient, scalable, and reliable systems
 * Frontend Development: Creating beatiful and engaging user experiences
 * Backend Development: Building secure, performant, and robust server-side applications
@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I’m a 20-year-old Computer and System Engineerin
 * System Design: Structuring applications and systems with a focus on scalability and maintainability
 
 🌱 Currently Learning
-* Advanced concepts in network programming
+* Concepts in network programming
 * System design best practices
 * New frontend frameworks and libraries
 
