@@ -3,6 +3,7 @@ Welcome to my GitHub profile! I’m a 20-year-old Computer and System Engineerin
 
 Java, python 
 Html, css, javascript
+Linear Algebra, Calculus
 
 📫 Get in Touch
 * Email: tritac.le@gmail.com
