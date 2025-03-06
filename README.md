@@ -1,8 +1,9 @@
 👋 Hi, I'm Tri!
 Welcome to my GitHub profile! I’m a 20-year-old Computer and System Engineering student at NTNU Trondheim. I have a passion for tech and I constantly try learn and improve my skills. 
 
-Java, python 
-Html, css, javascript
+#### My techstack:
+Java, python (numpy, matplolib, pandas)
+Html, css, javascript, typescript, react
 Linear Algebra, Calculus
 
 📫 Get in Touch
