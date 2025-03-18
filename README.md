@@ -1,4 +1,4 @@
-<div style="background: url('https://your-image-link.jpg'); padding:20px; border-radius:10px; background-size: cover;">
+<div style="background-color:#ffffff; padding:20px; border-radius:10px;">
   <a href="https://github.com/TriTacLe/github-readme-stats">
     <img height=200 width =400 align="center" src="https://github-readme-stats.vercel.app/api?username=TriTacLe&show_icons=true&theme=radical" />
   </a>
