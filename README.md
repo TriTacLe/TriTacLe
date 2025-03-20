@@ -16,4 +16,4 @@
        alt="WakaTime Stats"/>
 </a>
 
-![TriTacLe's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TriTacLe&layout=compact&theme=transparent&hide_border=true&hide=other)
+
