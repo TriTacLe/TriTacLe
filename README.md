@@ -5,10 +5,12 @@
     <img
       src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"
       alt="LinkedIn"
-      style="vertical-align: middle;"
+      style="vertical-align: middle; width: 20%; height: auto;"
     />
   </a>
 </p>
+
+
 
 
 
