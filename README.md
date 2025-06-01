@@ -15,10 +15,13 @@
 </a>
 
 <a href="https://github.com/TriTacLe/TriTacLe">
-  <img height="170" width="400" align="center" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=TriTacLe&hide_progress=false&theme=radical" 
-       alt="Top languages"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TriTacLe&hide_progress=false&theme=radical"
+    alt="Top languages"
+    style="width: 30%; height: auto; display: block; margin: 0 auto;"
+  />
 </a>
+
 
 <a href="https://wakatime.com/@TriTacLe">
   <img align="center" 
