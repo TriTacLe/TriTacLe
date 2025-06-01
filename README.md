@@ -1,7 +1,16 @@
 # Tri Tac Le
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/tri-tac-le-a918a2236/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/tri-tac-le-a918a2236/" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+      alt="LinkedIn"
+      width="40"
+      height="40"
+      style="vertical-align: middle;"
+    />
+    <span style="font-size: 1rem; color: #0077B5; margin-left: 8px; vertical-align: middle;">
+    </span>
   </a>
 </p>
 
