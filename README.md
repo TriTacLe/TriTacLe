@@ -13,14 +13,14 @@
     <img
       src="https://github-readme-stats.vercel.app/api/wakatime?username=TriTacLe&layout=compact&theme=radical&hide_border=false&hide=other"
       alt="WakaTime Stats"
-      style="width: 49%;"
+      style="width: 55%;"
     />
   </a>
   <a href="https://github.com/TriTacLe/TriTacLe">
     <img
       src="https://github-readme-stats.vercel.app/api?username=TriTacLe&show_icons=true&theme=radical"
       alt="GitHub stats"
-      style="width: 49%;"
+      style="width: 44%;"
     />
   </a>
 </p>
