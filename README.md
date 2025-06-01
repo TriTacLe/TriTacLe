@@ -1,3 +1,10 @@
+# Tri Tac Le
+<p align="left">
+  <a href="https://www.linkedin.com/in/tri-tac-le-a918a2236/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
 <a href="https://github.com/TriTacLe/TriTacLe">
   <img height="200" width="400" align="center" 
        src="https://github-readme-stats.vercel.app/api?username=TriTacLe&show_icons=true&theme=radical" 
