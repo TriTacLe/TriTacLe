@@ -1,5 +1,3 @@
-# Tri Tac Le
-
 <p align="left">
   <a href="https://www.linkedin.com/in/tri-tac-le-a918a2236/" target="_blank" rel="noopener noreferrer">
     <img
@@ -9,10 +7,6 @@
     />
   </a>
 </p>
-
-
-
-
 
 <a href="https://github.com/TriTacLe/TriTacLe">
   <img height="200" width="400" align="center" 
