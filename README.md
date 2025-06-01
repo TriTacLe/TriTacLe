@@ -3,16 +3,13 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/tri-tac-le-a918a2236/" target="_blank" rel="noopener noreferrer">
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+      src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"
       alt="LinkedIn"
-      width="40"
-      height="40"
       style="vertical-align: middle;"
     />
-    <span style="font-size: 1rem; color: #0077B5; margin-left: 8px; vertical-align: middle;">
-    </span>
   </a>
 </p>
+
 
 
 <a href="https://github.com/TriTacLe/TriTacLe">
