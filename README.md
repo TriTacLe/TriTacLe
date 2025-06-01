@@ -13,7 +13,7 @@
       <img
         src="https://github-readme-stats.vercel.app/api?username=TriTacLe&show_icons=true&theme=radical"
         alt="GitHub stats"
-        style="width: 51%;"
+        style="width: 49%;"
       />
     </a>
   </span>
