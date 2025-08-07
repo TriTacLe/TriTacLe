@@ -20,8 +20,8 @@
 ### Stats
 <!-- Keep the cards, move them lower -->
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TriTacLe&layout=compact&theme=radical&hide=other" alt="WakaTime stats" height="400">
-  <img src="https://github-readme-stats.vercel.app/api?username=TriTacLe&show_icons=true&theme=radical" alt="GitHub stats" height="200">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TriTacLe&layout=compact&theme=radical&hide=other" alt="WakaTime stats" height="300">
+  <img src="https://github-readme-stats.vercel.app/api?username=TriTacLe&show_icons=true&theme=radical" alt="GitHub stats" height="100">
 </p>
 
 ### Connect
