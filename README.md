@@ -1,9 +1,8 @@
 <h3 align="center">Tri Tac Le</h3>
 
 ### About me
-- 💻 2nd-year bachelor of engineering computer science @NTNU   
-- 🌱 Currently learning basic concepts of LLM for algoritmic trading
-- 🎯 Interested in DevOps practices and AI concepts 
+- 💻 2nd-year bachelor of engineering computer science @NTNU
+- In my freetime i go gym, do boxing, fotball and piano
 
 ### Tech stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
