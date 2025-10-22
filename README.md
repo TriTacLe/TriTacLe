@@ -17,13 +17,11 @@
 </p>
 
 ### Prosjects I've been a part of:
-  <div>
-    <h3><a href="https://github.com//">Soon</a></h3>
-    <p>
-        Coming soon
-    </p>
-    <br>
-    <hr>
+<div>
+  <h3><a href="https://github.com/TriTacLe/">Title</a></h3>
+  <p>
+      Description
+  </p>
 <div/>
   
 ### Tech stack
