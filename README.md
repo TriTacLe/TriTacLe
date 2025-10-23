@@ -6,7 +6,7 @@
 🎓 Studying: 2nd-year Bachelor of Engineering (BEng) Computer Science @NTNU  
 💼 Positions: DevOps Engineer @ Orbit NTNU | Financial Analyst @TIHLDE  
 ⚡ Freetime: Gym • Boxing • Football • Piano   
-📚 Reading: _Rik på gjeld_
+📚 Reading: _Rik på gjeld_<br/>
 <a href="https://www.linkedin.com/in/tri-tac-le-a918a2236/" target="_blank" rel="noopener noreferrer">
     <img
       src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"
