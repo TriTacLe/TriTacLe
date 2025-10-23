@@ -7,7 +7,7 @@
 💼 Positions: DevOps Engineer @ Orbit NTNU | Financial Analyst @TIHLDE  
 ⚡ Freetime: Gym • Boxing • Football • Piano   
 📚 Reading: _Rik på gjeld_
-- <a href="https://www.linkedin.com/in/tri-tac-le-a918a2236/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/tri-tac-le-a918a2236/" target="_blank" rel="noopener noreferrer">
     <img
       src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"
       alt="LinkedIn"
@@ -25,7 +25,7 @@
 <div/>
   
 ### Tech stack
-![Skills](https://skillicons.dev/icons?i=js,ts,py,java,c,dart,html,css,react,nextjs,tailwind,mysql,supabase,docker,azure)
+![Skills](https://skillicons.dev/icons?i=js,ts,py,java,c,dart,html,css,react,nextjs,tailwind,mysql,supabase,docker,azure,python)
 
 
 ### Stats
