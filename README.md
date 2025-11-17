@@ -27,11 +27,6 @@
 ### Tech stack
 ![Skills](https://skillicons.dev/icons?i=js,ts,py,java,c,dart,html,css,react,nextjs,tailwind,mysql,supabase,docker,azure,python)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TriTacLe&color=blueviolet&style=flat-square" alt="Profile views" />
-</p>
-
-
 ### Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TriTacLe&layout=compact&theme=radical&hide=other" alt="WakaTime stats" height="400">
@@ -39,3 +34,6 @@
 </p>
 
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TriTacLe&color=blueviolet&style=flat-square" alt="Profile views" />
+</p>
