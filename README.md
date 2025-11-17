@@ -27,6 +27,10 @@
 ### Tech stack
 ![Skills](https://skillicons.dev/icons?i=js,ts,py,java,c,dart,html,css,react,nextjs,tailwind,mysql,supabase,docker,azure,python)
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TriTacLe&color=blueviolet&style=flat-square" alt="Profile views" />
+</p>
+
 
 ### Stats
 <p align="left">
