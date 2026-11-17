@@ -27,7 +27,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: wakatime
-          options: username=TriTacLe&layout=compact&theme=radical&hide=other
+          options: username=TriTacLe&layout=compact&theme=radical&hide=other&langs_count=8
           path: profile/wakatime.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 

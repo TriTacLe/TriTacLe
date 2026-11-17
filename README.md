@@ -47,7 +47,7 @@ Most of my recent work lives in private repos (bachelor thesis on onboard hypers
 ## Stats
 
 <p align="center">
-  <img src="profile/wakatime.svg" alt="WakaTime stats" height="400" />
+  <img src="profile/wakatime.svg" alt="WakaTime stats" height="150" />
   <img src="profile/stats.svg" alt="GitHub stats" height="150" />
 </p>
 
