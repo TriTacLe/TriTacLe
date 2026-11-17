@@ -1,10 +1,12 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/tri-tac-le-a918a2236/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn" height="22" /></a>
   &nbsp;·&nbsp;
-  Bachelor of Engineering in Computer Science at NTNU
+  Bachelor of Engineering in Computer Science at NTNU, exchange at UCT
   &nbsp;·&nbsp;
   <a href="https://tritacle.no"><img src="https://custom-icon-badges.demolab.com/badge/tritacle.no-222222?logo=globe&logoColor=fff" alt="Website" height="22" /></a>
 </p>
+
+Most of my recent work lives in private repos (bachelor thesis on onboard hyperspectral classification for HYPSO, homelab infra, finance tooling). Happy to give access on request.
 
 ---
 
@@ -31,8 +33,6 @@
 | [Fondet](https://github.com/TIHLDE/Fondet)                                                   | TIHLDE investment fund [![↗](https://img.shields.io/badge/↗-555?style=flat-square)](https://fondet.tihlde.org/)              | TypeScript             | [bjosttveit](https://github.com/bjosttveit), [antontveito](https://github.com/antontveito), [LarsMstangeland](https://github.com/LarsMstangeland), [MathiasStrom](https://github.com/MathiasStrom), [minahjuliussen-cell](https://github.com/minahjuliussen-cell) |
 | [Makrooppdatering](https://github.com/TIHLDE/Makrooppdatering)                               | Macro terminal for Fondet [![↗](https://img.shields.io/badge/↗-555?style=flat-square)](https://makrooppdatering.vercel.app/) | TypeScript, Prisma     | [kajasd](https://github.com/kajasd)                                                                                                                                                                                                                               |
 | [tihldediskgolf.no](https://github.com/elias-willumsen/tihldediskgolf.no)                    | TIHLDE disc golf site [![↗](https://img.shields.io/badge/↗-555?style=flat-square)](https://tihldediskgolf.vercel.app)        | TypeScript             | [elias-willumsen](https://github.com/elias-willumsen)                                                                                                                                                                                                             |
-| [susad](https://github.com/TriTacLe/susad)                                                   | Sustainability diagram editor [![↗](https://img.shields.io/badge/↗-555?style=flat-square)](https://susad.netlify.app/)       | Vue                    | -                                                                                                                                                                                                                                                                 |
-| [tvekamp](https://github.com/TriTacLe/tvekamp)                                               | Game site [![↗](https://img.shields.io/badge/↗-555?style=flat-square)](https://tvekamp.vercel.app)                           | TypeScript             | -                                                                                                                                                                                                                                                                 |
 | [DailyQuoteBot](https://github.com/TriTacLe/DailyQuoteBot)                                   | Telegram quotes bot                                                                                                          | Python, Docker         | [rexvelde](https://github.com/rexvelde)                                                                                                                                                                                                                           |
 | [Pareto Securities case](https://github.com/TriTacLe/Pareto-Securities-Equity-Research-Case) | Equity research case study                                                                                                   | DCF, Peer-based, FTE   | [sigurdevensen](https://github.com/sigurdevensen), [kajasd](https://github.com/kajasd), Martine                                                                                                                                                                   |
 
@@ -47,8 +47,8 @@
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TriTacLe&layout=compact&theme=radical&hide=other" alt="WakaTime stats" height="400" />
-  <img src="https://github-readme-stats.vercel.app/api?username=TriTacLe&show_icons=true&theme=radical" alt="GitHub stats" height="150" />
+  <img src="profile/wakatime.svg" alt="WakaTime stats" height="400" />
+  <img src="profile/stats.svg" alt="GitHub stats" height="150" />
 </p>
 
 <p align="center">
