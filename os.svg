@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="265" viewBox="0 0 260 265" role="img" aria-label="Operating systems">
+<style>text{font-family:'Segoe UI',Ubuntu,sans-serif}</style>
+<rect x="0.5" y="0.5" width="259" height="264" rx="4.5" fill="#141321" stroke="#e4e2e2"/>
+<text x="20" y="35" fill="#fe428e" font-size="18" font-weight="600">Operating systems</text>
+<text x="20" y="68" fill="#a9fef7" font-size="14">Mac</text>
+<rect x="125" y="59" width="50" height="8" rx="4" fill="#2a2840"/>
+<rect x="125" y="59" width="50" height="8" rx="4" fill="#fe428e"/>
+<text x="240" y="68" fill="#a9fef7" font-size="14" text-anchor="end">61%</text>
+<text x="20" y="138" fill="#a9fef7" font-size="14">Linux</text>
+<rect x="125" y="129" width="50" height="8" rx="4" fill="#2a2840"/>
+<rect x="125" y="129" width="32" height="8" rx="4" fill="#fe428e"/>
+<text x="240" y="138" fill="#a9fef7" font-size="14" text-anchor="end">39%</text>
+<text x="20" y="208" fill="#a9fef7" font-size="14">Windows</text>
+<rect x="125" y="199" width="50" height="8" rx="4" fill="#2a2840"/>
+<rect x="125" y="199" width="4" height="8" rx="4" fill="#fe428e"/>
+<text x="240" y="208" fill="#a9fef7" font-size="14" text-anchor="end">0%</text>
+</svg>

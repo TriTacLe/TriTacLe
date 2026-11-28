@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="195" viewBox="0 0 300 195" role="img" aria-label="Editors">
+<style>text{font-family:'Segoe UI',Ubuntu,sans-serif}</style>
+<rect x="0.5" y="0.5" width="299" height="194" rx="4.5" fill="#141321" stroke="#e4e2e2"/>
+<text x="20" y="35" fill="#fe428e" font-size="18" font-weight="600">Editors</text>
+<text x="20" y="68" fill="#a9fef7" font-size="14">Neovim</text>
+<rect x="125" y="59" width="90" height="8" rx="4" fill="#2a2840"/>
+<rect x="125" y="59" width="90" height="8" rx="4" fill="#fe428e"/>
+<text x="280" y="68" fill="#a9fef7" font-size="14" text-anchor="end">202 h</text>
+<text x="20" y="94" fill="#a9fef7" font-size="14">VS Code</text>
+<rect x="125" y="85" width="90" height="8" rx="4" fill="#2a2840"/>
+<rect x="125" y="85" width="83" height="8" rx="4" fill="#fe428e"/>
+<text x="280" y="94" fill="#a9fef7" font-size="14" text-anchor="end">185 h</text>
+<text x="20" y="120" fill="#a9fef7" font-size="14">IntelliJ IDEA</text>
+<rect x="125" y="111" width="90" height="8" rx="4" fill="#2a2840"/>
+<rect x="125" y="111" width="57" height="8" rx="4" fill="#fe428e"/>
+<text x="280" y="120" fill="#a9fef7" font-size="14" text-anchor="end">127 h</text>
+<text x="20" y="146" fill="#a9fef7" font-size="14">Zsh</text>
+<rect x="125" y="137" width="90" height="8" rx="4" fill="#2a2840"/>
+<rect x="125" y="137" width="4" height="8" rx="4" fill="#fe428e"/>
+<text x="280" y="146" fill="#a9fef7" font-size="14" text-anchor="end">5 h</text>
+<text x="20" y="172" fill="#a9fef7" font-size="14">Postman</text>
+<rect x="125" y="163" width="90" height="8" rx="4" fill="#2a2840"/>
+<rect x="125" y="163" width="4" height="8" rx="4" fill="#fe428e"/>
+<text x="280" y="172" fill="#a9fef7" font-size="14" text-anchor="end">1 h</text>
+</svg>
